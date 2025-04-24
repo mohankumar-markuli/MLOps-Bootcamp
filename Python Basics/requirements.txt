@@ -1,1 +1,1 @@
-ipykernel
+ipykernel - to run the jupiter notebook on a virtual environment
