@@ -1,1 +1,2 @@
 ipykernel - to run the jupiter notebook on a virtual environment
+numpy - for numerical operations.env
