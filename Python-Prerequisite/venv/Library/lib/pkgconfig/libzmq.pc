@@ -1,0 +1,12 @@
+prefix=d:/GitHub/MLOps-Bootcamp/Python-Prerequisite/venv/Library
+exec_prefix=d:/GitHub/MLOps-Bootcamp/Python-Prerequisite/venv/Library
+libdir=d:/GitHub/MLOps-Bootcamp/Python-Prerequisite/venv/Library/lib
+includedir=d:/GitHub/MLOps-Bootcamp/Python-Prerequisite/venv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: 
+Requires.private: 
+Cflags: -I${includedir} 
