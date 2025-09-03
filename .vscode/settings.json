@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Python-Prerequisite/05-Modules/mypackage"
+    ]
+}
