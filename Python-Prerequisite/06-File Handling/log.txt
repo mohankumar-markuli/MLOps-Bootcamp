@@ -1,1 +1,6 @@
-This text is to append a string to log
+This text is to append a string to logoperation1
+operation2 executed 
+operation1
+operation2 executed 
+operation1
+operation2 executed 
