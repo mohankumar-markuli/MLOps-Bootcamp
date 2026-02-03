@@ -1,5 +1,8 @@
 {
     "python.analysis.extraPaths": [
         "./Python-Prerequisite/05-Modules/mypackage"
-    ]
+    ],
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "python-envs.pythonProjects": []
 }
