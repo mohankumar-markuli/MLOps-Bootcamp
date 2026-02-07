@@ -15,7 +15,7 @@ abc()
 
 function xyz(){
     for (let i =1;i<=5;i++){
-         setTimeout(function(){ console.log(i);},i*1000)
+         setTimeout(function(){console.log(i);},i*1000)
     }
     console.log("Mohan")
 }
@@ -28,7 +28,7 @@ function pqr(){
     {
         function close(x)
         {
-         setTimeout(function(){console.log(x);},i*1000)
+         setTimeout(function(){console.log(x);},x*1000)
         }
         close(i)
     }
