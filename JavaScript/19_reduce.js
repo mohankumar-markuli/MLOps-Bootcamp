@@ -12,7 +12,7 @@ function findSum(arr){
 console.log(findSum(arr));
 
 
-// reduce(function,initial_value)
+// reduce(function(accumulator,current_value),initial_value)
 const output = arr.reduce(function (acc, curr){
     acc = acc + curr;
     return acc
